@@ -2,6 +2,7 @@
 
 ![Build and Scan](https://github.com/patbi/devops-tp-docker-patrick-biyaga-1/actions/workflows/docker-deploy.yml/badge.svg)
 [![CodeQL](https://github.com/patbi/devops-tp-docker-patrick-biyaga-1/workflows/CodeQL/badge.svg)](https://github.com/patbi/devops-tp-docker-patrick-biyaga-1/actions?query=workflow%3ACodeQL "Code quality workflow status")
+[![GitHub tag](https://img.shields.io/github/tag/patbi/devops-tp-docker-patrick-biyaga-1)](https://github.com/patbi/devops-tp-docker-patrick-biyaga-1/releases/?include_prereleases&sort=semver "View GitHub releases")
 
 ## Pipeline DevSecOps
 
