@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# Utiliser la dernière version stable
-FROM nginx:1.25.4-alpine
-=======
+
 # Utiliser une version spécifique (pas latest)
 FROM nginx:1.29.4-alpine
->>>>>>> 6d0d0dc6e4c53af546eb8f6cfd62e8e3ebf61d74
 
 # Métadonnées
 LABEL maintainer="TP DevOps"
