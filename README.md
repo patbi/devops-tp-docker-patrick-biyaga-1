@@ -5,7 +5,7 @@
 
 ## Pipeline DevSecOps
 
-Ce projet implémente un pipeline CI/CD sécurisé pour Docker avec :
+Ce projet implémente un pipeline CI/CD sécurisé pour Docker avec:
 
 - Analyse statique du code (CodeQL)
 - Lint du Dockerfile (Hadolint)
