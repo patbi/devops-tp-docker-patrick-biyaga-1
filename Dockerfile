@@ -22,7 +22,7 @@ COPY --chown=appuser:appgroup nginx/nginx.conf /etc/nginx/conf.d/default.conf
 # Copier les fichiers de l'application
 COPY --chown=appuser:appgroup src/ /usr/share/nginx/html/
 
-# Définir les permissions appropriées
+# Définir les permissions appropriées.
 RUN chown -R appuser:appgroup /usr/share/nginx/html && \
     chmod -R 755 /usr/share/nginx/html
 
