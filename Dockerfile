@@ -3,7 +3,7 @@
 FROM nginx:1.29.4-alpine
 
 # Métadonnées
-LABEL maintainer="TP DevOps"
+LABEL maintainer="TP DevOps."
 LABEL description="Application DevOps sécurisée"
 LABEL org.opencontainers.image.source="https://github.com/patbi/devops-tp-docker-patrick-biyaga-1"
 
