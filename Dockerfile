@@ -5,7 +5,6 @@ FROM nginx:1.29.4-alpine
 # Métadonnées
 LABEL maintainer="TP DevOps"
 LABEL description="Application DevOps sécurisée"
-LABEL io.mend.image.dockerfile.path=dockerfile
 LABEL org.opencontainers.image.source="https://github.com/patbi/devops-tp-docker-patrick-biyaga-1"
 
 # Créer un utilisateur non-root
