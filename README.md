@@ -1,7 +1,7 @@
 # TP DevSecOps avec Docker
 
 ![Build and Scan](https://github.com/patbi/devops-tp-docker-patrick-biyaga-1/actions/workflows/docker-deploy.yml/badge.svg)
-[CodeQL](https://github.com/patbi/devops-tp-docker-patrick-biyaga-1/actions/workflows/codeql.yml/badge.svg?branch=main&event=push)](https://github.com/patbi/devops-tp-docker-patrick-biyaga-1/actions/workflows/codeql.yml) 
+![CodeQL](https://github.com/patbi/devops-tp-docker-patrick-biyaga-1/actions/workflows/codeql.yml/badge.svg?branch=main&event=push)](https://github.com/patbi/devops-tp-docker-patrick-biyaga-1/actions/workflows/codeql.yml) 
 
 ## Pipeline DevSecOps
 
