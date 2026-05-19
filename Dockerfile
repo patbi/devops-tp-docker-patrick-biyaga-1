@@ -1,6 +1,6 @@
 
 # Utiliser une version spécifique (pas latest)
-FROM nginx:1.29.5-alpine
+FROM nginx:1.31.0-alpine
 
 # Métadonnées
 LABEL maintainer="TP DevOps."
